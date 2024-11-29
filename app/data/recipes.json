@@ -1,0 +1,481 @@
+[
+  {
+    "id": "1732753480947",
+    "name": "Teriyaki Chicken Casserole",
+    "ingredients": [
+      {
+        "ingredient": "soy_sauce",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "water",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "brown_sugar",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "ground_ginger",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "minced_garlic",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "cornstarch",
+        "measure": "4 Tablespoons"
+      },
+      {
+        "ingredient": "chicken_breasts",
+        "measure": "2"
+      },
+      {
+        "ingredient": "stir_fry_vegetables",
+        "measure": "1 (12 oz.)"
+      },
+      {
+        "ingredient": "brown_rice",
+        "measure": "3 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350° F. Spray a 9x13-inch baking pan with non-stick spray.",
+      "Combine soy sauce, ½ cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling.",
+      "Meanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once sauce is boiling, add mixture to the saucepan and stir to combine. Cook until the sauce starts to thicken then remove from heat.",
+      "Place the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks.",
+      "*Meanwhile, steam or cook the vegetables according to package directions.",
+      "Add the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!"
+    ],
+    "active": true,
+    "has": false
+  },
+  {
+    "id": "1732803155681",
+    "name": "New Ingredient",
+    "has": true
+  },
+  {
+    "id": "1732803160562",
+    "name": "New Ingredient",
+    "has": true
+  },
+  {
+    "id": "1732803162093",
+    "name": "New Ingredient",
+    "has": false
+  },
+  {
+    "id": "1732808218147",
+    "name": "Tandoori chicken",
+    "ingredients": [
+      {
+        "ingredient": "lemons",
+        "measure": "2 Juice"
+      },
+      {
+        "ingredient": "paprika",
+        "measure": "4 tsp"
+      },
+      {
+        "ingredient": "red_onions",
+        "measure": "2 finely chopped"
+      },
+      {
+        "ingredient": "chicken_thighs",
+        "measure": "16 skinnless"
+      },
+      {
+        "ingredient": "vegetable_oil",
+        "measure": "For brushing"
+      },
+      {
+        "ingredient": "greek_yogurt",
+        "measure": "300ml"
+      },
+      {
+        "ingredient": "ginger",
+        "measure": "large piece"
+      },
+      {
+        "ingredient": "garlic_clove",
+        "measure": "4"
+      },
+      {
+        "ingredient": "garam_masala",
+        "measure": "¾ tsp"
+      },
+      {
+        "ingredient": "ground_cumin",
+        "measure": "¾ tsp"
+      },
+      {
+        "ingredient": "chilli_powder",
+        "measure": "½ tsp"
+      },
+      {
+        "ingredient": "turmeric",
+        "measure": "¼ tsp"
+      }
+    ],
+    "instructions": [
+      "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.",
+      "Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.",
+      "Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through."
+    ],
+    "active": true
+  },
+  {
+    "id": "1732808618277",
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      {
+        "ingredient": "sake",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "soy_sauce",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "sesame_seed_oil",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "corn_flour",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "water",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "chicken",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "chilli_powder",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "rice_vinegar",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "brown_sugar",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "spring_onions",
+        "measure": "4 Chopped"
+      },
+      {
+        "ingredient": "garlic_clove",
+        "measure": "6 cloves"
+      },
+      {
+        "ingredient": "water_chestnut",
+        "measure": "220g"
+      },
+      {
+        "ingredient": "peanuts",
+        "measure": "100g"
+      }
+    ],
+    "instructions": [
+      "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.",
+      "In a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.",
+      "In a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.",
+      "Meanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens."
+    ],
+    "active": true
+  },
+  {
+    "id": "1732808740400",
+    "name": "Chicken Couscous",
+    "ingredients": [
+      {
+        "ingredient": "olive_oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "chicken_breast",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "ginger",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "harissa_spice",
+        "measure": "2 tblsp"
+      },
+      {
+        "ingredient": "dried_apricots",
+        "measure": "10"
+      },
+      {
+        "ingredient": "chickpeas",
+        "measure": "220g"
+      },
+      {
+        "ingredient": "couscous",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "chicken_stock",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "coriander",
+        "measure": "Handful"
+      }
+    ],
+    "instructions": [
+      "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.",
+      "Tip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like."
+    ],
+    "active": true
+  },
+  {
+    "id": "1732808877652",
+    "name": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+    "ingredients": [
+      {
+        "ingredient": "potatoes",
+        "measure": "5"
+      },
+      {
+        "ingredient": "carrots",
+        "measure": "12 ounces"
+      },
+      {
+        "ingredient": "scallions",
+        "measure": "1"
+      },
+      {
+        "ingredient": "garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "bread",
+        "measure": "1 Slice"
+      },
+      {
+        "ingredient": "garlic_powder",
+        "measure": "1"
+      },
+      {
+        "ingredient": "soy_sauce",
+        "measure": "2"
+      },
+      {
+        "ingredient": "ground_beef",
+        "measure": "1"
+      },
+      {
+        "ingredient": "vegetable_oil",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "butter",
+        "measure": "2 tbsp"
+      }
+    ],
+    "instructions": [
+      "1. Preheat oven to 425 degrees. Wash and dry all produce. Dice potatoes into 1/2-inch pieces. Trim, peel, and cut carrots on a diagonal into 1/2-inch-thick pieces. Trim and thinly slice scallions, separating whites from greens; finely chop whites. Peel and finely chop garlic.",
+      "2. In a medium bowl, soak bread with 2 TBSP water (4 TBSP for 4 servings); break up with your hands until pasty. Stir in beef, sriracha, scallion whites, half the garlic, salt (we used 3/4 tsp kosher salt; 11/2 tsp for 4), and pepper. Form into two 1-inch-tall loaves (four loaves for 4). Place on one side of a baking sheet. Toss carrots on empty side of same sheet with a drizzle of oil, salt, and pepper. (For 4, spread meatloaves out across whole sheet and add carrots to a second sheet.) Bake for 20 minutes (we'll glaze the meatloaves then).",
+      "3. Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until very",
+      "tender, 12-15 minutes. Reserve 1/2 cup potato cooking liquid, then drain. While potatoes cook, in a small bowl, combine soy sauce, garlic powder, 1/4 cup ketchup (1/2 cup for 4 servings), and 2 tsp sugar (4 tsp for 4).",
+      "4. Once meatloaves and carrots have baked 20 minutes, remove from oven. Spoon half the ketchup glaze over meatloaves (save",
+      "the rest for serving); return to oven until carrots are browned and tender, meatloaves are cooked through, and glaze is tacky, 4-5 minutes more.",
+      "5. Meanwhile, melt 2 TBSP butter (4 TBSP for 4 servings) in pot used for potatoes over medium heat. Add remaining garlic and cook",
+      "until fragrant, 30 seconds. Add potatoes and 1/4 tsp wasabi. Mash, adding splashes of reserved potato cooking liquid as necessary until smooth. Season with salt and pepper. (If you like things spicy, stir in more wasabi!)",
+      "6. Divide meatloaves, mashed potatoes, and roasted carrots between plates. Sprinkle with scallion greens and serve with remaining ketchup glaze on the side for dipping."
+    ],
+    "active": true
+  },
+  {
+    "id": "1732808907568",
+    "name": "15-minute chicken & halloumi burgers",
+    "ingredients": [
+      {
+        "ingredient": "chicken_breasts",
+        "measure": "2"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "hotsauce",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "lemon_juice",
+        "measure": "½"
+      },
+      {
+        "ingredient": "buns",
+        "measure": "2"
+      },
+      {
+        "ingredient": "cheese",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "cabbage",
+        "measure": "¼"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "sour_cream",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "lettuce",
+        "measure": "4 leaves"
+      },
+      {
+        "ingredient": "red_pepper",
+        "measure": "2"
+      }
+    ],
+    "instructions": [
+      "Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.",
+      "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.",
+      "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.",
+      "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.",
+      "Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad."
+    ],
+    "active": true
+  },
+  {
+    "id": "1732808908952",
+    "name": "15-minute chicken & halloumi burgers",
+    "ingredients": [
+      {
+        "ingredient": "chicken_breasts",
+        "measure": "2"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "hotsauce",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "lemon_juice",
+        "measure": "½"
+      },
+      {
+        "ingredient": "buns",
+        "measure": "2"
+      },
+      {
+        "ingredient": "cheese",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "cabbage",
+        "measure": "¼"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "sour_cream",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "lettuce",
+        "measure": "4 leaves"
+      },
+      {
+        "ingredient": "red_pepper",
+        "measure": "2"
+      }
+    ],
+    "instructions": [
+      "Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.",
+      "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.",
+      "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.",
+      "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.",
+      "Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad."
+    ],
+    "active": true
+  },
+  {
+    "id": "1732898911775",
+    "name": "15-minute chicken & halloumi burgers",
+    "ingredients": [
+      {
+        "ingredient": "chicken_breasts",
+        "measure": "2"
+      },
+      {
+        "ingredient": "oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "hotsauce",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "lemon_juice",
+        "measure": "½"
+      },
+      {
+        "ingredient": "buns",
+        "measure": "2"
+      },
+      {
+        "ingredient": "cheese",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "cabbage",
+        "measure": "¼"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "sour_cream",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "lettuce",
+        "measure": "4 leaves"
+      },
+      {
+        "ingredient": "red_pepper",
+        "measure": "2"
+      }
+    ],
+    "instructions": [
+      "Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.",
+      "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.",
+      "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.",
+      "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.",
+      "Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad."
+    ],
+    "active": true
+  }
+]
